@@ -1,0 +1,49 @@
+﻿  functions.c
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(16,9): warning C4129: 'I': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(23,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(41,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(43,32): warning C4101: 'leaderboardField': unreferenced local variable
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(120,82): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(192,11): warning C4098: 'loadingAnswers': 'void' function returning a value
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(201,44): warning C4133: 'function': incompatible types - from 'ANSWER *' to 'QUESTION *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(203,11): warning C4098: 'loadingAnswers': 'void' function returning a value
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(201,1): warning C4133: 'initializing': incompatible types - from 'QUESTION *' to 'ANSWER *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(228,11): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(237,46): warning C4133: 'function': incompatible types - from 'SOLUTION *' to 'QUESTION *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(239,11): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(242,43): warning C4020: 'compareToSolution': too many actual parameters
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(247,29): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(237,1): warning C4133: 'initializing': incompatible types - from 'QUESTION *' to 'SOLUTION *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(263,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(276,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(294,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(332,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(334,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(385,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(404,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(430,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(432,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(446,40): warning C4133: '==': incompatible types - from 'ANSWER *' to 'question *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(447,42): warning C4133: '=': incompatible types - from 'answer *' to 'question *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(444,1): warning C4133: 'initializing': incompatible types - from 'ANSWER *' to 'QUESTION *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(483,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(502,13): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(528,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(530,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(534,120): warning C4029: declared formal parameter list different from definition
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(595,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(608,40): warning C4133: '==': incompatible types - from 'SOLUTION *' to 'question *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(609,42): warning C4133: '=': incompatible types - from 'solution *' to 'question *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(606,1): warning C4133: 'initializing': incompatible types - from 'SOLUTION *' to 'QUESTION *'
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(660,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(687,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(690,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(869,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(880,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(887,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(936,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(943,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(955,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(962,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\38597\Desktop\projekt\David Budim projekt\functions.c(30): warning C4172: returning address of local variable or temporary: username
+  David Budim  projekt.vcxproj -> C:\Users\38597\Desktop\projekt\David Budim projekt\x64\Debug\David Budim  projekt.exe

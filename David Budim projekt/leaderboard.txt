@@ -1,0 +1,10 @@
+ANA 2000
+ana 1000
+dragan 1000
+franjo 500
+ana 500
+jure 500
+check 300
+proba 300
+davidlast 300
+goran 300

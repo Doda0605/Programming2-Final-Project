@@ -1,0 +1,8 @@
+﻿  functions.c
+C:\Users\student\source\repos\David Budim  projekt\functions.c(18,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\student\source\repos\David Budim  projekt\functions.c(29,9): warning C4129: '=': unrecognized character escape sequence
+C:\Users\student\source\repos\David Budim  projekt\functions.c(36,30): warning C4013: 'choosingCategory' undefined; assuming extern returning int
+  source.c
+  Generating Code...
+C:\Users\student\source\repos\David Budim  projekt\functions.c(76,9): warning C4129: '=': unrecognized character escape sequence
+  David Budim  projekt.vcxproj -> C:\Users\student\source\repos\David Budim  projekt\Debug\David Budim  projekt.exe
