@@ -1,2 +1,1 @@
-# milijuna-
-Projekt za Programiranje II
+# Projekt za Programiranje II
